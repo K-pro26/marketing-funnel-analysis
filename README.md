@@ -47,6 +47,7 @@ marketing-funnel-analysis
 │   └── funnel_dashboard.pbix
 │
 └── README.md
+
 ```
 
 ---
@@ -62,6 +63,9 @@ The database contains the following main tables:
 * **marketing_touches** → marketing campaign interactions
 
 ---
+## Data Model (ERD)
+
+![ERD](docs/erd.png)
 
 ## 📊 Funnel Analysis Query
 
