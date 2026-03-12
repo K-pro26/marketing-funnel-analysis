@@ -1,0 +1,95 @@
+users
+-----
+user_id (PK)
+signup_date
+country
+city
+segment
+
+
+sessions
+--------
+session_id (PK)
+user_id (FK)
+session_start
+
+
+events
+------
+event_id (PK)
+session_id (FK)
+event_type
+event_time
+
+
+orders
+------
+order_id (PK)
+customer_id (FK)
+order_date
+total_amount
+
+
+marketing_touches
+-----------------
+touch_id (PK)
+user_id (FK)
+channel
+touch_date
+
+Relations entre les tables
+users
+  │
+  │ 1
+  │
+  └───────────────∞
+                sessions
+                    │
+                    │ 1
+                    │
+                    └────────────∞
+                                events
+
+
+users
+  │
+  │ 1
+  │
+  └───────────────∞
+                 orders
+
+
+users
+  │
+  │ 1
+  │
+  └───────────────∞
+           marketing_touches
+Explication métier
+| Table             | Rôle                   |
+| ----------------- | ---------------------- |
+| users             | informations clients   |
+| sessions          | sessions de navigation |
+| events            | actions utilisateurs   |
+| orders            | achats réalisés        |
+| marketing_touches | interactions marketing |
+
+Funnel logique
+
+Le funnel marketing est :
+Visit
+ ↓
+Product View
+ ↓
+Add to Cart
+ ↓
+Checkout
+ ↓
+Purchase
+
+Dans mon projet :
+marketing-funnel-analysis
+crée un dossier :
+docs
+Puis ajoute :
+docs/erd.png
