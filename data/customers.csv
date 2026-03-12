@@ -1,0 +1,701 @@
+customer_id,country,city,signup_date,segment
+1,Nigeria,Abuja,2023-10-25,Premium
+2,Cote d'Ivoire,San Pedro,2024-01-08,VIP
+3,Benin,Porto-Novo,2022-07-24,Premium
+4,Benin,Porto-Novo,2020-11-27,VIP
+5,Cote d'Ivoire,Bouake,2023-11-27,VIP
+6,Benin,Parakou,2023-04-02,VIP
+7,Nigeria,Ibadan,2020-10-05,VIP
+8,Nigeria,Kano,2023-06-16,Premium
+9,Nigeria,Kano,2021-02-17,Standard
+10,Benin,Cotonou,2023-11-25,Premium
+11,Cote d'Ivoire,Bouake,2022-01-14,Premium
+12,Cote d'Ivoire,Abidjan,2023-08-30,VIP
+13,Nigeria,Lagos,2020-09-29,VIP
+14,Benin,Parakou,2021-12-05,Premium
+15,Nigeria,Abuja,2020-02-18,VIP
+16,Nigeria,Lagos,2025-11-08,Premium
+17,Nigeria,Ibadan,2020-02-21,Premium
+18,Cote d'Ivoire,San Pedro,2025-12-29,Standard
+19,Benin,Parakou,2024-02-26,Premium
+20,Cote d'Ivoire,Yamoussoukro,2021-12-18,VIP
+21,Benin,Porto-Novo,2020-06-05,VIP
+22,Cote d'Ivoire,San Pedro,2023-08-28,VIP
+23,Nigeria,Lagos,2024-09-30,Standard
+24,Cote d'Ivoire,Bouake,2024-01-05,Premium
+25,Benin,Cotonou,2021-02-28,Standard
+26,Benin,Parakou,2021-01-05,Standard
+27,Nigeria,Abuja,2022-01-14,VIP
+28,Nigeria,Kano,2021-11-26,VIP
+29,Benin,Cotonou,2020-03-29,VIP
+30,Benin,Cotonou,2024-01-04,Premium
+31,Nigeria,Ibadan,2025-01-18,VIP
+32,Nigeria,Lagos,2024-07-12,Standard
+33,Cote d'Ivoire,San Pedro,2020-04-12,Standard
+34,Cote d'Ivoire,San Pedro,2023-09-01,Standard
+35,Benin,Porto-Novo,2022-10-19,VIP
+36,Benin,Cotonou,2025-07-15,Premium
+37,Benin,Porto-Novo,2025-04-14,Premium
+38,Nigeria,Abuja,2020-01-22,Premium
+39,Nigeria,Ibadan,2024-04-18,Standard
+40,Cote d'Ivoire,Yamoussoukro,2020-06-19,VIP
+41,Cote d'Ivoire,Bouake,2024-09-19,Premium
+42,Nigeria,Abuja,2023-06-01,Premium
+43,Cote d'Ivoire,San Pedro,2020-12-09,Premium
+44,Nigeria,Kano,2020-12-06,Standard
+45,Cote d'Ivoire,San Pedro,2023-12-15,VIP
+46,Nigeria,Abuja,2021-10-04,Premium
+47,Cote d'Ivoire,Yamoussoukro,2024-06-07,Premium
+48,Benin,Porto-Novo,2020-08-29,Premium
+49,Cote d'Ivoire,San Pedro,2024-02-08,Standard
+50,Cote d'Ivoire,Abidjan,2021-10-29,Premium
+51,Cote d'Ivoire,Bouake,2024-05-08,Standard
+52,Benin,Porto-Novo,2024-09-04,VIP
+53,Cote d'Ivoire,San Pedro,2025-07-08,Premium
+54,Cote d'Ivoire,Bouake,2025-10-10,VIP
+55,Benin,Cotonou,2020-12-05,Standard
+56,Nigeria,Kano,2023-07-11,Standard
+57,Cote d'Ivoire,Abidjan,2025-12-10,Standard
+58,Benin,Cotonou,2022-01-30,VIP
+59,Nigeria,Lagos,2022-04-22,VIP
+60,Cote d'Ivoire,Abidjan,2021-03-04,Premium
+61,Cote d'Ivoire,Bouake,2023-07-13,Standard
+62,Benin,Cotonou,2022-02-05,Premium
+63,Nigeria,Ibadan,2021-06-10,Premium
+64,Cote d'Ivoire,Bouake,2025-05-25,Premium
+65,Cote d'Ivoire,San Pedro,2025-09-25,VIP
+66,Benin,Parakou,2023-09-02,Premium
+67,Benin,Parakou,2025-11-22,VIP
+68,Benin,Cotonou,2023-04-07,Premium
+69,Benin,Parakou,2024-09-21,Standard
+70,Cote d'Ivoire,Yamoussoukro,2024-03-29,Premium
+71,Benin,Porto-Novo,2020-02-19,Standard
+72,Cote d'Ivoire,Abidjan,2025-07-31,Standard
+73,Cote d'Ivoire,San Pedro,2022-12-16,VIP
+74,Benin,Porto-Novo,2023-04-28,Premium
+75,Benin,Parakou,2023-08-30,VIP
+76,Nigeria,Ibadan,2025-08-06,Standard
+77,Benin,Porto-Novo,2023-04-04,Premium
+78,Nigeria,Lagos,2022-08-13,Premium
+79,Cote d'Ivoire,Yamoussoukro,2021-03-10,VIP
+80,Nigeria,Kano,2020-11-11,Premium
+81,Nigeria,Abuja,2025-05-23,Standard
+82,Nigeria,Ibadan,2024-07-11,VIP
+83,Cote d'Ivoire,Yamoussoukro,2024-06-24,Standard
+84,Benin,Parakou,2025-03-23,Standard
+85,Benin,Cotonou,2022-12-21,Standard
+86,Cote d'Ivoire,Bouake,2020-12-02,Premium
+87,Nigeria,Ibadan,2021-10-29,Standard
+88,Cote d'Ivoire,Bouake,2020-08-22,Premium
+89,Benin,Cotonou,2023-03-01,Standard
+90,Benin,Porto-Novo,2020-01-03,VIP
+91,Cote d'Ivoire,Abidjan,2021-12-20,VIP
+92,Benin,Cotonou,2020-08-14,Standard
+93,Nigeria,Ibadan,2023-03-10,Standard
+94,Benin,Porto-Novo,2022-10-11,Premium
+95,Cote d'Ivoire,Abidjan,2025-09-11,Standard
+96,Nigeria,Ibadan,2023-08-15,VIP
+97,Nigeria,Kano,2025-05-17,Premium
+98,Nigeria,Lagos,2024-06-05,Premium
+99,Benin,Cotonou,2024-01-10,Premium
+100,Benin,Parakou,2021-01-15,Standard
+101,Benin,Parakou,2022-02-25,Standard
+102,Nigeria,Ibadan,2024-10-12,Standard
+103,Nigeria,Ibadan,2023-04-19,VIP
+104,Benin,Cotonou,2024-07-11,VIP
+105,Cote d'Ivoire,San Pedro,2023-06-04,Standard
+106,Nigeria,Kano,2021-05-16,Standard
+107,Benin,Porto-Novo,2021-07-29,Standard
+108,Benin,Porto-Novo,2020-08-02,Premium
+109,Benin,Porto-Novo,2020-07-29,Premium
+110,Nigeria,Abuja,2021-03-05,Standard
+111,Benin,Cotonou,2021-05-10,VIP
+112,Cote d'Ivoire,Yamoussoukro,2025-11-26,Standard
+113,Nigeria,Abuja,2021-01-24,VIP
+114,Benin,Porto-Novo,2020-06-24,VIP
+115,Benin,Cotonou,2024-03-22,VIP
+116,Cote d'Ivoire,Abidjan,2021-06-12,VIP
+117,Nigeria,Lagos,2022-02-20,Premium
+118,Benin,Porto-Novo,2020-02-08,Premium
+119,Cote d'Ivoire,Yamoussoukro,2024-09-20,Premium
+120,Nigeria,Abuja,2025-11-25,Standard
+121,Cote d'Ivoire,Abidjan,2022-10-11,Standard
+122,Benin,Parakou,2025-03-06,VIP
+123,Cote d'Ivoire,Abidjan,2023-07-17,Standard
+124,Benin,Parakou,2020-05-25,Standard
+125,Cote d'Ivoire,San Pedro,2021-10-28,VIP
+126,Cote d'Ivoire,Abidjan,2025-05-14,VIP
+127,Benin,Cotonou,2020-09-30,VIP
+128,Benin,Porto-Novo,2022-06-19,Standard
+129,Benin,Porto-Novo,2025-02-04,VIP
+130,Nigeria,Lagos,2025-09-29,Standard
+131,Nigeria,Lagos,2024-09-07,Standard
+132,Benin,Cotonou,2025-09-13,VIP
+133,Benin,Porto-Novo,2020-12-18,Standard
+134,Benin,Cotonou,2023-08-26,VIP
+135,Cote d'Ivoire,Abidjan,2021-01-14,Standard
+136,Cote d'Ivoire,Yamoussoukro,2025-05-18,Premium
+137,Cote d'Ivoire,San Pedro,2021-03-05,Premium
+138,Nigeria,Lagos,2022-11-06,Standard
+139,Benin,Parakou,2024-08-19,VIP
+140,Benin,Cotonou,2024-04-09,Standard
+141,Benin,Porto-Novo,2020-08-01,Premium
+142,Benin,Cotonou,2020-10-06,Standard
+143,Cote d'Ivoire,Bouake,2025-08-22,Standard
+144,Cote d'Ivoire,Yamoussoukro,2024-11-30,Standard
+145,Benin,Porto-Novo,2023-05-23,Premium
+146,Nigeria,Abuja,2023-08-02,Standard
+147,Nigeria,Abuja,2025-08-22,Standard
+148,Nigeria,Abuja,2025-08-03,Standard
+149,Benin,Cotonou,2023-12-10,Standard
+150,Benin,Porto-Novo,2022-05-19,Standard
+151,Nigeria,Lagos,2024-04-02,VIP
+152,Nigeria,Kano,2020-08-23,Premium
+153,Nigeria,Abuja,2023-07-23,Premium
+154,Cote d'Ivoire,Yamoussoukro,2024-01-09,VIP
+155,Nigeria,Lagos,2020-07-24,Standard
+156,Nigeria,Lagos,2025-11-03,VIP
+157,Nigeria,Kano,2024-02-12,Premium
+158,Nigeria,Kano,2023-05-04,Standard
+159,Benin,Cotonou,2020-06-30,Standard
+160,Cote d'Ivoire,Yamoussoukro,2020-05-20,VIP
+161,Nigeria,Lagos,2021-05-02,Standard
+162,Benin,Porto-Novo,2020-12-20,Standard
+163,Benin,Cotonou,2021-11-07,Standard
+164,Cote d'Ivoire,Yamoussoukro,2023-03-19,Premium
+165,Nigeria,Ibadan,2020-06-15,Standard
+166,Benin,Porto-Novo,2023-12-21,Premium
+167,Benin,Cotonou,2021-04-18,Premium
+168,Cote d'Ivoire,Bouake,2022-02-20,Standard
+169,Nigeria,Kano,2020-06-18,Premium
+170,Cote d'Ivoire,Abidjan,2024-03-30,VIP
+171,Benin,Cotonou,2025-08-09,Premium
+172,Benin,Parakou,2023-03-27,Standard
+173,Cote d'Ivoire,Bouake,2023-04-27,Standard
+174,Nigeria,Kano,2021-05-26,VIP
+175,Benin,Porto-Novo,2024-06-19,VIP
+176,Cote d'Ivoire,Yamoussoukro,2023-06-07,VIP
+177,Nigeria,Kano,2022-10-27,VIP
+178,Cote d'Ivoire,San Pedro,2025-04-19,VIP
+179,Nigeria,Kano,2022-09-26,Standard
+180,Nigeria,Kano,2020-01-14,Standard
+181,Nigeria,Abuja,2020-06-20,VIP
+182,Benin,Porto-Novo,2020-01-17,Standard
+183,Benin,Cotonou,2021-04-24,VIP
+184,Benin,Cotonou,2025-08-02,VIP
+185,Benin,Cotonou,2023-08-19,Standard
+186,Cote d'Ivoire,Abidjan,2023-01-26,Premium
+187,Nigeria,Ibadan,2025-02-01,Premium
+188,Cote d'Ivoire,San Pedro,2022-02-25,Premium
+189,Nigeria,Lagos,2021-02-03,VIP
+190,Benin,Cotonou,2022-01-20,Premium
+191,Nigeria,Kano,2025-10-23,Standard
+192,Nigeria,Kano,2022-08-21,Standard
+193,Cote d'Ivoire,Yamoussoukro,2023-12-28,VIP
+194,Benin,Cotonou,2021-10-06,VIP
+195,Benin,Cotonou,2023-07-16,Premium
+196,Cote d'Ivoire,Bouake,2022-11-02,VIP
+197,Nigeria,Lagos,2024-05-23,Standard
+198,Cote d'Ivoire,Bouake,2022-10-06,Premium
+199,Benin,Cotonou,2025-02-08,Premium
+200,Benin,Porto-Novo,2025-03-01,VIP
+201,Cote d'Ivoire,Yamoussoukro,2023-07-19,Standard
+202,Benin,Porto-Novo,2020-11-18,Premium
+203,Nigeria,Abuja,2023-08-30,Premium
+204,Cote d'Ivoire,Yamoussoukro,2023-02-03,VIP
+205,Benin,Parakou,2020-04-09,Standard
+206,Nigeria,Lagos,2024-06-06,Premium
+207,Cote d'Ivoire,Bouake,2023-02-25,Standard
+208,Cote d'Ivoire,Bouake,2022-06-04,Standard
+209,Cote d'Ivoire,Bouake,2025-11-30,Standard
+210,Cote d'Ivoire,Bouake,2022-09-30,VIP
+211,Benin,Porto-Novo,2020-11-03,Standard
+212,Benin,Parakou,2025-08-19,VIP
+213,Nigeria,Abuja,2023-05-06,Premium
+214,Nigeria,Ibadan,2022-03-21,Premium
+215,Nigeria,Abuja,2025-12-23,VIP
+216,Benin,Cotonou,2021-08-22,Standard
+217,Benin,Cotonou,2021-08-23,VIP
+218,Nigeria,Lagos,2025-07-18,Standard
+219,Nigeria,Ibadan,2024-06-14,Premium
+220,Benin,Porto-Novo,2022-03-23,Standard
+221,Cote d'Ivoire,Yamoussoukro,2023-12-02,Standard
+222,Benin,Porto-Novo,2024-09-14,Standard
+223,Cote d'Ivoire,Abidjan,2022-04-05,VIP
+224,Nigeria,Ibadan,2023-04-27,VIP
+225,Cote d'Ivoire,Bouake,2024-02-01,Standard
+226,Nigeria,Kano,2024-02-01,Standard
+227,Cote d'Ivoire,Abidjan,2024-11-10,VIP
+228,Cote d'Ivoire,Abidjan,2020-07-02,Standard
+229,Benin,Porto-Novo,2025-07-10,Standard
+230,Benin,Parakou,2020-01-30,VIP
+231,Cote d'Ivoire,San Pedro,2021-09-25,VIP
+232,Benin,Porto-Novo,2023-08-05,Standard
+233,Nigeria,Abuja,2021-12-26,VIP
+234,Benin,Parakou,2022-02-02,VIP
+235,Cote d'Ivoire,Yamoussoukro,2023-04-27,Standard
+236,Nigeria,Kano,2022-02-01,Premium
+237,Cote d'Ivoire,Yamoussoukro,2020-07-05,Standard
+238,Cote d'Ivoire,San Pedro,2024-02-01,Standard
+239,Benin,Cotonou,2020-05-14,Premium
+240,Cote d'Ivoire,Abidjan,2024-08-14,VIP
+241,Benin,Parakou,2024-08-10,Standard
+242,Nigeria,Lagos,2023-08-18,VIP
+243,Nigeria,Ibadan,2020-01-15,Standard
+244,Cote d'Ivoire,Bouake,2023-08-07,Standard
+245,Cote d'Ivoire,Bouake,2024-12-23,Standard
+246,Benin,Porto-Novo,2025-08-01,Standard
+247,Cote d'Ivoire,Bouake,2023-04-05,VIP
+248,Benin,Parakou,2022-03-27,VIP
+249,Nigeria,Kano,2022-11-18,Premium
+250,Nigeria,Kano,2024-09-05,VIP
+251,Cote d'Ivoire,Abidjan,2022-10-27,VIP
+252,Benin,Parakou,2025-10-16,VIP
+253,Benin,Parakou,2021-03-03,Premium
+254,Cote d'Ivoire,Yamoussoukro,2023-05-22,VIP
+255,Benin,Cotonou,2020-12-01,Standard
+256,Benin,Porto-Novo,2023-07-27,VIP
+257,Benin,Porto-Novo,2024-12-24,Premium
+258,Benin,Porto-Novo,2021-01-20,Premium
+259,Nigeria,Ibadan,2025-02-20,Standard
+260,Benin,Cotonou,2021-03-31,Premium
+261,Benin,Cotonou,2024-03-14,Standard
+262,Benin,Cotonou,2023-07-16,Standard
+263,Cote d'Ivoire,Yamoussoukro,2023-05-04,Standard
+264,Nigeria,Lagos,2022-03-05,Standard
+265,Cote d'Ivoire,San Pedro,2023-12-30,Standard
+266,Nigeria,Ibadan,2025-03-09,Standard
+267,Benin,Cotonou,2022-05-09,Premium
+268,Benin,Porto-Novo,2025-07-06,Premium
+269,Cote d'Ivoire,Abidjan,2021-04-17,VIP
+270,Nigeria,Ibadan,2025-11-15,VIP
+271,Benin,Cotonou,2023-02-04,VIP
+272,Nigeria,Lagos,2022-09-07,VIP
+273,Benin,Porto-Novo,2024-06-05,Standard
+274,Nigeria,Ibadan,2021-01-26,VIP
+275,Cote d'Ivoire,Yamoussoukro,2025-01-29,Standard
+276,Nigeria,Abuja,2022-11-23,VIP
+277,Cote d'Ivoire,Bouake,2023-05-22,Premium
+278,Cote d'Ivoire,San Pedro,2024-11-08,Premium
+279,Cote d'Ivoire,Abidjan,2025-10-10,Premium
+280,Nigeria,Abuja,2025-08-24,Standard
+281,Benin,Parakou,2022-03-02,VIP
+282,Benin,Porto-Novo,2025-02-11,Standard
+283,Cote d'Ivoire,Abidjan,2022-10-06,VIP
+284,Nigeria,Kano,2024-05-29,Premium
+285,Nigeria,Lagos,2025-06-29,Premium
+286,Cote d'Ivoire,Abidjan,2021-05-04,Standard
+287,Cote d'Ivoire,Bouake,2023-12-26,Premium
+288,Nigeria,Ibadan,2020-03-22,Premium
+289,Cote d'Ivoire,Bouake,2025-08-20,Standard
+290,Cote d'Ivoire,Bouake,2020-07-19,Standard
+291,Benin,Cotonou,2024-04-06,Standard
+292,Cote d'Ivoire,Abidjan,2024-04-08,Premium
+293,Benin,Parakou,2025-12-31,VIP
+294,Benin,Porto-Novo,2025-03-12,Standard
+295,Cote d'Ivoire,Yamoussoukro,2024-05-14,Standard
+296,Nigeria,Kano,2025-04-16,Standard
+297,Benin,Porto-Novo,2021-05-02,VIP
+298,Benin,Porto-Novo,2021-12-10,Standard
+299,Cote d'Ivoire,San Pedro,2023-06-21,Standard
+300,Cote d'Ivoire,Bouake,2021-08-10,Standard
+301,Nigeria,Lagos,2025-05-03,Standard
+302,Cote d'Ivoire,Abidjan,2022-11-05,VIP
+303,Benin,Porto-Novo,2024-12-29,Premium
+304,Nigeria,Ibadan,2024-04-02,Standard
+305,Nigeria,Kano,2025-02-28,VIP
+306,Benin,Parakou,2024-01-21,VIP
+307,Cote d'Ivoire,Yamoussoukro,2025-04-14,VIP
+308,Benin,Porto-Novo,2023-07-22,Premium
+309,Benin,Cotonou,2021-11-26,Standard
+310,Benin,Porto-Novo,2023-11-29,Premium
+311,Cote d'Ivoire,Yamoussoukro,2021-11-29,VIP
+312,Benin,Cotonou,2025-09-14,Premium
+313,Cote d'Ivoire,Bouake,2023-03-21,VIP
+314,Benin,Porto-Novo,2025-10-31,VIP
+315,Cote d'Ivoire,Abidjan,2021-07-30,VIP
+316,Cote d'Ivoire,Bouake,2021-11-09,Premium
+317,Nigeria,Kano,2025-09-09,Standard
+318,Nigeria,Kano,2020-06-23,VIP
+319,Benin,Cotonou,2023-07-19,VIP
+320,Cote d'Ivoire,Bouake,2020-03-18,Premium
+321,Nigeria,Kano,2021-04-04,VIP
+322,Nigeria,Lagos,2022-03-17,VIP
+323,Cote d'Ivoire,San Pedro,2022-12-31,VIP
+324,Benin,Porto-Novo,2020-08-12,Standard
+325,Benin,Cotonou,2025-09-24,Premium
+326,Benin,Cotonou,2024-09-20,VIP
+327,Nigeria,Abuja,2022-11-09,Standard
+328,Benin,Cotonou,2023-06-08,Standard
+329,Benin,Porto-Novo,2024-03-13,Premium
+330,Benin,Parakou,2020-03-12,Premium
+331,Cote d'Ivoire,Yamoussoukro,2020-10-20,VIP
+332,Benin,Parakou,2025-07-20,Standard
+333,Nigeria,Lagos,2024-10-02,Standard
+334,Cote d'Ivoire,Abidjan,2024-02-02,Premium
+335,Benin,Cotonou,2020-09-02,Standard
+336,Benin,Porto-Novo,2021-12-02,Standard
+337,Nigeria,Lagos,2025-03-02,Standard
+338,Cote d'Ivoire,Abidjan,2021-07-18,Standard
+339,Benin,Parakou,2020-06-10,Premium
+340,Nigeria,Abuja,2023-07-01,Premium
+341,Benin,Porto-Novo,2025-07-29,Premium
+342,Cote d'Ivoire,San Pedro,2023-05-07,Premium
+343,Benin,Porto-Novo,2024-01-26,Standard
+344,Benin,Parakou,2020-04-20,Standard
+345,Nigeria,Kano,2023-11-28,VIP
+346,Nigeria,Ibadan,2021-11-15,VIP
+347,Cote d'Ivoire,Bouake,2022-02-17,VIP
+348,Cote d'Ivoire,San Pedro,2023-02-18,Standard
+349,Nigeria,Lagos,2025-05-23,VIP
+350,Nigeria,Ibadan,2024-05-15,Premium
+351,Benin,Cotonou,2025-12-16,VIP
+352,Benin,Parakou,2024-09-20,Standard
+353,Benin,Cotonou,2023-03-15,Standard
+354,Cote d'Ivoire,Bouake,2020-01-09,Standard
+355,Nigeria,Abuja,2022-05-04,Premium
+356,Nigeria,Kano,2021-03-01,Standard
+357,Cote d'Ivoire,San Pedro,2023-12-03,Standard
+358,Benin,Parakou,2023-05-08,Premium
+359,Benin,Cotonou,2021-03-02,VIP
+360,Cote d'Ivoire,Bouake,2022-04-19,Premium
+361,Cote d'Ivoire,Abidjan,2022-04-25,VIP
+362,Benin,Porto-Novo,2024-02-13,Standard
+363,Nigeria,Kano,2025-12-21,Standard
+364,Nigeria,Lagos,2025-10-04,VIP
+365,Cote d'Ivoire,Bouake,2022-02-06,Premium
+366,Cote d'Ivoire,San Pedro,2024-09-25,Standard
+367,Benin,Cotonou,2025-01-08,Standard
+368,Benin,Cotonou,2025-06-15,Premium
+369,Nigeria,Lagos,2021-11-16,Premium
+370,Nigeria,Ibadan,2020-10-30,VIP
+371,Cote d'Ivoire,Bouake,2022-08-22,Standard
+372,Cote d'Ivoire,San Pedro,2023-11-24,Standard
+373,Cote d'Ivoire,San Pedro,2023-05-23,Premium
+374,Cote d'Ivoire,Bouake,2023-08-15,Standard
+375,Nigeria,Ibadan,2025-07-13,VIP
+376,Cote d'Ivoire,Yamoussoukro,2021-11-20,Premium
+377,Cote d'Ivoire,Yamoussoukro,2023-07-07,Standard
+378,Benin,Porto-Novo,2024-09-10,VIP
+379,Nigeria,Kano,2023-03-30,Standard
+380,Cote d'Ivoire,San Pedro,2020-06-13,Premium
+381,Cote d'Ivoire,Yamoussoukro,2025-08-24,Standard
+382,Nigeria,Lagos,2022-07-12,Premium
+383,Benin,Cotonou,2022-03-06,Standard
+384,Cote d'Ivoire,Bouake,2022-02-17,VIP
+385,Benin,Parakou,2023-08-06,Standard
+386,Nigeria,Abuja,2024-06-03,Standard
+387,Nigeria,Kano,2025-11-29,VIP
+388,Benin,Parakou,2020-05-01,Premium
+389,Nigeria,Abuja,2023-04-09,Premium
+390,Benin,Cotonou,2025-11-25,Premium
+391,Nigeria,Abuja,2023-09-01,VIP
+392,Benin,Cotonou,2021-05-02,VIP
+393,Cote d'Ivoire,Abidjan,2025-01-04,Premium
+394,Nigeria,Ibadan,2025-02-27,Premium
+395,Nigeria,Kano,2024-09-06,VIP
+396,Benin,Parakou,2022-07-12,VIP
+397,Nigeria,Ibadan,2025-05-16,Standard
+398,Benin,Porto-Novo,2020-01-14,Standard
+399,Nigeria,Ibadan,2021-06-30,Premium
+400,Benin,Parakou,2021-09-02,VIP
+401,Nigeria,Kano,2020-03-21,Standard
+402,Nigeria,Abuja,2020-11-01,VIP
+403,Nigeria,Lagos,2020-01-25,VIP
+404,Benin,Parakou,2023-05-03,Standard
+405,Cote d'Ivoire,Bouake,2023-06-01,Premium
+406,Benin,Cotonou,2020-02-10,VIP
+407,Nigeria,Ibadan,2025-12-09,VIP
+408,Benin,Porto-Novo,2022-08-04,Standard
+409,Benin,Cotonou,2025-10-07,VIP
+410,Nigeria,Kano,2021-03-08,Premium
+411,Benin,Cotonou,2024-10-02,Standard
+412,Benin,Porto-Novo,2020-05-30,Premium
+413,Benin,Parakou,2023-10-29,VIP
+414,Cote d'Ivoire,Bouake,2023-11-29,VIP
+415,Benin,Parakou,2024-09-26,Premium
+416,Benin,Parakou,2021-11-16,Standard
+417,Cote d'Ivoire,Yamoussoukro,2023-03-04,Premium
+418,Benin,Porto-Novo,2022-04-13,Premium
+419,Benin,Parakou,2023-01-03,Premium
+420,Benin,Cotonou,2023-05-10,Standard
+421,Benin,Parakou,2020-04-06,Standard
+422,Cote d'Ivoire,Abidjan,2021-01-21,Standard
+423,Benin,Cotonou,2024-12-08,VIP
+424,Benin,Porto-Novo,2025-12-08,Standard
+425,Benin,Porto-Novo,2021-12-29,Standard
+426,Benin,Porto-Novo,2024-11-06,Standard
+427,Cote d'Ivoire,Yamoussoukro,2025-12-18,VIP
+428,Cote d'Ivoire,Abidjan,2024-09-03,Standard
+429,Nigeria,Ibadan,2025-10-06,VIP
+430,Cote d'Ivoire,Yamoussoukro,2024-06-26,Premium
+431,Nigeria,Ibadan,2022-03-15,Standard
+432,Nigeria,Abuja,2025-08-15,VIP
+433,Benin,Cotonou,2020-12-15,Premium
+434,Nigeria,Lagos,2020-05-03,Standard
+435,Cote d'Ivoire,San Pedro,2024-07-24,VIP
+436,Cote d'Ivoire,San Pedro,2023-12-04,Premium
+437,Benin,Parakou,2020-01-02,VIP
+438,Nigeria,Kano,2025-10-24,Premium
+439,Cote d'Ivoire,Abidjan,2021-09-13,Standard
+440,Nigeria,Kano,2020-05-10,Standard
+441,Benin,Parakou,2021-05-11,Premium
+442,Nigeria,Abuja,2022-08-23,Premium
+443,Nigeria,Abuja,2025-06-24,Standard
+444,Cote d'Ivoire,Yamoussoukro,2025-02-04,VIP
+445,Nigeria,Abuja,2024-11-15,VIP
+446,Nigeria,Abuja,2024-12-23,Premium
+447,Nigeria,Abuja,2021-12-01,Standard
+448,Benin,Parakou,2023-01-10,Premium
+449,Benin,Cotonou,2022-06-28,VIP
+450,Cote d'Ivoire,Bouake,2025-03-17,Standard
+451,Cote d'Ivoire,Yamoussoukro,2023-10-26,Premium
+452,Nigeria,Lagos,2021-11-12,VIP
+453,Benin,Porto-Novo,2022-07-04,VIP
+454,Cote d'Ivoire,Abidjan,2022-07-03,Premium
+455,Cote d'Ivoire,San Pedro,2023-06-28,Standard
+456,Benin,Porto-Novo,2024-11-10,Premium
+457,Cote d'Ivoire,Bouake,2022-03-23,Premium
+458,Cote d'Ivoire,Yamoussoukro,2020-09-15,Premium
+459,Benin,Cotonou,2025-05-06,Premium
+460,Cote d'Ivoire,Bouake,2025-05-13,Standard
+461,Cote d'Ivoire,Abidjan,2024-01-07,Premium
+462,Cote d'Ivoire,Abidjan,2021-06-05,Standard
+463,Cote d'Ivoire,Bouake,2020-06-17,Premium
+464,Nigeria,Ibadan,2025-02-12,Standard
+465,Benin,Parakou,2024-11-15,Standard
+466,Benin,Parakou,2022-04-29,VIP
+467,Cote d'Ivoire,Yamoussoukro,2022-10-26,Standard
+468,Nigeria,Abuja,2025-03-29,Standard
+469,Cote d'Ivoire,San Pedro,2023-10-01,Standard
+470,Benin,Cotonou,2023-09-21,Premium
+471,Benin,Cotonou,2023-05-16,Standard
+472,Benin,Parakou,2024-01-26,Standard
+473,Nigeria,Ibadan,2022-05-08,VIP
+474,Benin,Parakou,2022-06-07,VIP
+475,Benin,Porto-Novo,2023-05-06,VIP
+476,Nigeria,Lagos,2025-09-14,Standard
+477,Benin,Parakou,2025-12-27,Standard
+478,Cote d'Ivoire,Abidjan,2021-05-05,VIP
+479,Benin,Cotonou,2020-07-24,VIP
+480,Benin,Parakou,2020-06-21,Standard
+481,Cote d'Ivoire,Bouake,2025-01-14,Premium
+482,Cote d'Ivoire,San Pedro,2024-04-14,Premium
+483,Nigeria,Ibadan,2025-08-02,VIP
+484,Cote d'Ivoire,Yamoussoukro,2021-03-20,Standard
+485,Nigeria,Ibadan,2025-12-16,Premium
+486,Cote d'Ivoire,Abidjan,2023-05-26,Standard
+487,Nigeria,Abuja,2025-02-22,Premium
+488,Cote d'Ivoire,San Pedro,2025-04-28,Premium
+489,Benin,Cotonou,2020-04-24,Premium
+490,Benin,Cotonou,2020-05-09,VIP
+491,Benin,Cotonou,2024-12-17,VIP
+492,Cote d'Ivoire,Yamoussoukro,2024-10-26,Standard
+493,Benin,Parakou,2020-01-08,Standard
+494,Cote d'Ivoire,Bouake,2024-10-29,Standard
+495,Benin,Porto-Novo,2022-09-23,VIP
+496,Nigeria,Ibadan,2020-04-15,Premium
+497,Cote d'Ivoire,Bouake,2020-09-27,Premium
+498,Nigeria,Abuja,2023-07-18,Premium
+499,Nigeria,Kano,2024-05-20,Standard
+500,Nigeria,Kano,2022-11-06,Premium
+501,Cote d'Ivoire,Yamoussoukro,2020-08-06,Standard
+502,Nigeria,Ibadan,2022-04-26,Premium
+503,Benin,Cotonou,2022-06-14,VIP
+504,Nigeria,Lagos,2020-05-16,VIP
+505,Benin,Porto-Novo,2020-01-19,VIP
+506,Nigeria,Abuja,2021-05-02,Premium
+507,Nigeria,Lagos,2022-09-27,Standard
+508,Nigeria,Kano,2021-09-03,Premium
+509,Nigeria,Abuja,2024-03-07,Premium
+510,Nigeria,Kano,2023-04-23,Premium
+511,Benin,Porto-Novo,2020-04-13,Standard
+512,Nigeria,Ibadan,2020-04-21,VIP
+513,Cote d'Ivoire,Bouake,2021-10-27,Premium
+514,Nigeria,Lagos,2021-04-15,VIP
+515,Benin,Cotonou,2023-12-11,VIP
+516,Nigeria,Kano,2024-02-23,VIP
+517,Cote d'Ivoire,Yamoussoukro,2025-09-15,Standard
+518,Nigeria,Lagos,2021-08-21,Premium
+519,Nigeria,Lagos,2022-05-15,Standard
+520,Benin,Cotonou,2024-10-15,Standard
+521,Cote d'Ivoire,San Pedro,2024-08-02,VIP
+522,Benin,Cotonou,2022-07-11,Premium
+523,Benin,Porto-Novo,2020-10-30,VIP
+524,Cote d'Ivoire,Yamoussoukro,2022-01-31,Standard
+525,Cote d'Ivoire,San Pedro,2025-05-27,Standard
+526,Benin,Parakou,2020-12-09,Standard
+527,Nigeria,Ibadan,2022-09-04,Premium
+528,Cote d'Ivoire,San Pedro,2021-06-09,VIP
+529,Nigeria,Ibadan,2022-10-06,Standard
+530,Nigeria,Kano,2023-09-12,VIP
+531,Cote d'Ivoire,Bouake,2021-05-28,VIP
+532,Nigeria,Ibadan,2023-02-23,VIP
+533,Nigeria,Lagos,2021-01-19,VIP
+534,Cote d'Ivoire,San Pedro,2021-03-18,Standard
+535,Cote d'Ivoire,San Pedro,2020-05-27,Premium
+536,Nigeria,Kano,2023-05-05,Premium
+537,Nigeria,Kano,2024-05-14,Premium
+538,Benin,Parakou,2022-01-11,VIP
+539,Nigeria,Ibadan,2020-10-26,Premium
+540,Benin,Parakou,2020-01-19,VIP
+541,Benin,Parakou,2025-06-03,Standard
+542,Nigeria,Abuja,2020-05-19,Premium
+543,Benin,Cotonou,2023-03-13,VIP
+544,Nigeria,Kano,2020-06-04,Standard
+545,Cote d'Ivoire,Bouake,2020-04-29,VIP
+546,Cote d'Ivoire,San Pedro,2025-06-17,Standard
+547,Cote d'Ivoire,San Pedro,2022-07-02,Standard
+548,Benin,Porto-Novo,2025-02-01,VIP
+549,Nigeria,Abuja,2021-07-01,Premium
+550,Benin,Parakou,2024-04-03,VIP
+551,Benin,Cotonou,2024-07-29,Standard
+552,Benin,Parakou,2020-01-10,VIP
+553,Benin,Cotonou,2022-11-22,Premium
+554,Benin,Parakou,2020-05-23,Premium
+555,Benin,Parakou,2025-07-21,Standard
+556,Nigeria,Kano,2025-02-06,VIP
+557,Cote d'Ivoire,San Pedro,2024-06-23,Premium
+558,Nigeria,Abuja,2023-08-03,Standard
+559,Benin,Porto-Novo,2025-03-22,VIP
+560,Nigeria,Ibadan,2025-08-03,Standard
+561,Nigeria,Lagos,2025-11-01,Standard
+562,Cote d'Ivoire,Bouake,2025-12-03,Premium
+563,Cote d'Ivoire,Abidjan,2021-05-01,Standard
+564,Cote d'Ivoire,Yamoussoukro,2020-08-26,VIP
+565,Benin,Cotonou,2021-10-06,VIP
+566,Benin,Porto-Novo,2021-01-18,VIP
+567,Nigeria,Lagos,2024-11-03,Premium
+568,Cote d'Ivoire,Yamoussoukro,2022-02-22,VIP
+569,Nigeria,Lagos,2023-09-17,Standard
+570,Benin,Porto-Novo,2020-03-21,Standard
+571,Cote d'Ivoire,Yamoussoukro,2024-02-25,VIP
+572,Cote d'Ivoire,Yamoussoukro,2022-08-30,Premium
+573,Nigeria,Abuja,2023-09-18,VIP
+574,Benin,Parakou,2024-09-26,Standard
+575,Benin,Porto-Novo,2024-07-08,Premium
+576,Cote d'Ivoire,Abidjan,2025-10-21,Premium
+577,Benin,Cotonou,2023-10-12,Premium
+578,Nigeria,Ibadan,2022-06-08,Standard
+579,Benin,Parakou,2024-04-10,VIP
+580,Benin,Porto-Novo,2025-09-26,VIP
+581,Nigeria,Lagos,2022-08-09,VIP
+582,Nigeria,Lagos,2022-06-21,Premium
+583,Cote d'Ivoire,Yamoussoukro,2021-11-01,Standard
+584,Cote d'Ivoire,Yamoussoukro,2025-07-18,VIP
+585,Nigeria,Abuja,2022-03-25,Premium
+586,Cote d'Ivoire,Abidjan,2025-09-05,VIP
+587,Benin,Porto-Novo,2021-03-27,Standard
+588,Benin,Cotonou,2023-11-22,Standard
+589,Nigeria,Lagos,2021-08-04,Standard
+590,Nigeria,Ibadan,2022-11-01,Standard
+591,Benin,Cotonou,2024-01-20,Premium
+592,Benin,Parakou,2024-10-11,VIP
+593,Nigeria,Lagos,2020-05-27,Premium
+594,Cote d'Ivoire,San Pedro,2024-10-02,Premium
+595,Benin,Cotonou,2025-05-17,Premium
+596,Cote d'Ivoire,Abidjan,2021-05-10,Premium
+597,Nigeria,Abuja,2022-06-27,Standard
+598,Benin,Porto-Novo,2020-03-22,Standard
+599,Benin,Parakou,2020-02-11,Standard
+600,Benin,Cotonou,2024-03-16,VIP
+601,Cote d'Ivoire,Bouake,2023-05-12,Standard
+602,Benin,Parakou,2022-01-22,Standard
+603,Cote d'Ivoire,Yamoussoukro,2025-12-02,Premium
+604,Cote d'Ivoire,Yamoussoukro,2020-04-26,Standard
+605,Benin,Cotonou,2023-09-16,VIP
+606,Cote d'Ivoire,Yamoussoukro,2025-02-06,Premium
+607,Benin,Parakou,2022-01-26,Standard
+608,Benin,Parakou,2025-07-26,Premium
+609,Cote d'Ivoire,Bouake,2023-08-25,Premium
+610,Nigeria,Lagos,2020-07-18,Standard
+611,Cote d'Ivoire,San Pedro,2025-01-22,VIP
+612,Nigeria,Kano,2021-12-05,Standard
+613,Benin,Cotonou,2022-01-11,VIP
+614,Cote d'Ivoire,Abidjan,2025-10-25,Premium
+615,Nigeria,Lagos,2022-05-06,Premium
+616,Benin,Porto-Novo,2023-01-18,Premium
+617,Nigeria,Abuja,2022-05-03,Premium
+618,Cote d'Ivoire,Bouake,2023-03-24,VIP
+619,Cote d'Ivoire,Abidjan,2024-02-11,Standard
+620,Nigeria,Ibadan,2024-08-12,Standard
+621,Benin,Porto-Novo,2025-12-17,Premium
+622,Benin,Porto-Novo,2022-01-11,VIP
+623,Nigeria,Kano,2021-11-03,VIP
+624,Cote d'Ivoire,San Pedro,2023-09-11,VIP
+625,Benin,Parakou,2022-08-01,VIP
+626,Nigeria,Kano,2021-08-07,Standard
+627,Cote d'Ivoire,Yamoussoukro,2024-12-28,VIP
+628,Nigeria,Kano,2024-10-23,Standard
+629,Nigeria,Abuja,2024-08-14,VIP
+630,Benin,Parakou,2020-05-02,VIP
+631,Nigeria,Ibadan,2021-11-12,VIP
+632,Nigeria,Kano,2020-06-20,VIP
+633,Nigeria,Ibadan,2025-02-11,Standard
+634,Benin,Porto-Novo,2022-09-18,VIP
+635,Benin,Cotonou,2020-04-07,VIP
+636,Cote d'Ivoire,Abidjan,2024-08-06,Standard
+637,Cote d'Ivoire,Bouake,2025-03-15,Standard
+638,Benin,Cotonou,2023-04-05,Standard
+639,Cote d'Ivoire,Abidjan,2024-11-06,VIP
+640,Benin,Cotonou,2023-05-29,VIP
+641,Nigeria,Kano,2022-09-07,VIP
+642,Cote d'Ivoire,Bouake,2020-07-06,Standard
+643,Cote d'Ivoire,Bouake,2020-12-04,Premium
+644,Cote d'Ivoire,Yamoussoukro,2022-11-20,Premium
+645,Benin,Cotonou,2021-03-30,VIP
+646,Cote d'Ivoire,Bouake,2021-04-29,Premium
+647,Benin,Parakou,2023-07-02,Standard
+648,Nigeria,Kano,2020-01-30,Standard
+649,Nigeria,Ibadan,2020-11-30,Standard
+650,Benin,Parakou,2022-08-02,VIP
+651,Nigeria,Ibadan,2025-11-13,Standard
+652,Nigeria,Kano,2020-03-15,VIP
+653,Benin,Parakou,2023-06-09,Premium
+654,Cote d'Ivoire,San Pedro,2024-06-18,Standard
+655,Nigeria,Ibadan,2022-02-08,Premium
+656,Benin,Porto-Novo,2022-09-09,Premium
+657,Benin,Porto-Novo,2025-01-22,Standard
+658,Benin,Parakou,2022-02-27,Premium
+659,Cote d'Ivoire,San Pedro,2020-05-29,Standard
+660,Nigeria,Lagos,2023-12-01,Standard
+661,Cote d'Ivoire,Abidjan,2023-04-03,Standard
+662,Nigeria,Ibadan,2022-11-24,Premium
+663,Benin,Porto-Novo,2020-12-18,Premium
+664,Nigeria,Ibadan,2025-04-26,Premium
+665,Cote d'Ivoire,Bouake,2024-12-29,Premium
+666,Nigeria,Lagos,2020-01-31,Standard
+667,Nigeria,Ibadan,2024-06-18,Premium
+668,Benin,Porto-Novo,2020-05-27,VIP
+669,Benin,Cotonou,2025-04-05,VIP
+670,Benin,Porto-Novo,2021-12-05,Premium
+671,Benin,Cotonou,2020-04-15,VIP
+672,Cote d'Ivoire,San Pedro,2023-04-13,VIP
+673,Nigeria,Kano,2024-04-23,VIP
+674,Benin,Parakou,2025-04-09,Premium
+675,Cote d'Ivoire,Yamoussoukro,2021-06-03,VIP
+676,Nigeria,Lagos,2023-04-26,Standard
+677,Benin,Cotonou,2025-09-11,Standard
+678,Cote d'Ivoire,San Pedro,2021-03-15,VIP
+679,Benin,Porto-Novo,2022-05-15,VIP
+680,Benin,Cotonou,2023-04-11,Standard
+681,Benin,Porto-Novo,2023-01-15,Standard
+682,Cote d'Ivoire,San Pedro,2022-02-01,VIP
+683,Nigeria,Ibadan,2021-12-14,Premium
+684,Benin,Parakou,2020-05-12,Standard
+685,Nigeria,Kano,2024-12-22,Standard
+686,Benin,Cotonou,2020-05-10,Premium
+687,Benin,Cotonou,2021-07-20,Premium
+688,Benin,Parakou,2024-05-11,Standard
+689,Nigeria,Kano,2020-04-22,Standard
+690,Cote d'Ivoire,Yamoussoukro,2022-07-10,Premium
+691,Nigeria,Kano,2024-04-25,Standard
+692,Benin,Parakou,2025-11-29,VIP
+693,Benin,Cotonou,2021-07-27,VIP
+694,Benin,Cotonou,2022-03-25,VIP
+695,Cote d'Ivoire,Yamoussoukro,2020-07-23,VIP
+696,Benin,Parakou,2022-12-27,VIP
+697,Benin,Parakou,2020-12-26,Premium
+698,Cote d'Ivoire,San Pedro,2023-02-28,VIP
+699,Cote d'Ivoire,Yamoussoukro,2024-08-05,Premium
+700,Cote d'Ivoire,San Pedro,2024-05-19,Premium
